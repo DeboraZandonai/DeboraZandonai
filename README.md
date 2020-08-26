@@ -28,7 +28,7 @@
 </a>
 <br/> <br/>
 
-Hi, I'm Debora. I am a student of computer engineering and a full stack developer in development looking to "dominate" a stack. Passionate about technology, book lover and gamer in his spare time.
+Hi, I'm Debora. I am a student of computer engineering and a full stack developer in development looking to "dominate" a stack. I live in Brazil and am 17 years old. Passionate about technology, book lover and gamer in his spare time.
 
 ## Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
