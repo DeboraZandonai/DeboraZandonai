@@ -26,7 +26,7 @@
 <a target="_blank" href="https://fb.com/DeboraZandonai">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br/>
+<br/> <br/>
 
 Hi, I'm Debora. I am a student of computer engineering and a full stack developer in development looking to "dominate" a stack. Passionate about technology, book lover and gamer in his spare time.
 
