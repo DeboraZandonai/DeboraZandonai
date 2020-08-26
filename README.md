@@ -23,8 +23,8 @@
 <a target="_blank" href="https://www.instagram.com/zandonaidebora/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="_blank" href="https://fb.com/debora.zandonai.5">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a target="_blank" href="https://bitbucket.org/DeboraZandonai/">
+  <img align="left" alt="Bitbucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />
 </a>
 <br/> <br/>
 
