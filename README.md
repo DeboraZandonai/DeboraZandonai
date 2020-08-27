@@ -1,4 +1,4 @@
-### Hello World, I'm Debora!
+### Hello World, I'm Debora!:octocat:
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeboraZandonai&show_icons=true)
 
