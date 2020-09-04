@@ -23,6 +23,9 @@
 <a target="_blank" href="https://www.instagram.com/zandonaidebora/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a target="_blank" href="https://open.spotify.com/user/debohzandonaii?si=a6aj7nWbQo-7CIhQZe_nOQ">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
+</a>
 <a target="_blank" href="https://bitbucket.org/DeboraZandonai/">
   <img align="left" alt="Bitbucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />
 </a>
