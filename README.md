@@ -32,7 +32,7 @@
 <a rel="noopener" href="https://bitbucket.org/DeboraZandonai/">
   <img align="left" alt="Bitbucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />
 </a>
-<br/> <br/>
+<br/> <br/> <br/>
 
 Hi, I'm Debora. I am a student of computer engineering and a full stack developer in development looking to "dominate" a stack. I live in Brazil and am 17 years old. Passionate about technology, book lover and gamer in his spare time.
 
