@@ -17,6 +17,9 @@
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5546999286252">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
+<a target="_blank" href="https://discord.com/channels/Debora#9796">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
 <a target="_blank" href="https://twitter.com/zandonaiidebora?s=09">
   <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
