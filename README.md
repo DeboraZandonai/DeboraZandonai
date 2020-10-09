@@ -14,12 +14,6 @@
 <a target="_blank" href="mailto:debohzandonaii@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5546999286252">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="https://discord.com/channels/Debora#9796">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
 <a target="_blank" href="https://twitter.com/zandonaiidebora?s=09">
   <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -32,7 +26,7 @@
 <a rel="noopener" href="https://bitbucket.org/DeboraZandonai/">
   <img align="left" alt="Bitbucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />
 </a>
-<br/> <br/> <br/>
+<br/> 
 
 Hi, I'm Debora. I am a student of computer engineering and a full stack developer in development looking to "dominate" a stack. I live in Brazil and am 17 years old. Passionate about technology, book lover and gamer in his spare time.
 
@@ -48,3 +42,5 @@ Hi, I'm Debora. I am a student of computer engineering and a full stack develope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeboraZandonai&layout=compact)
