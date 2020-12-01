@@ -1,6 +1,6 @@
 ### Hello World, I'm Debora!:octocat:
 
-<div align="center">
+<div>
   <img align="center" src="https://i.imgur.com/uSKHvTy.gif">
 </div>
 
