@@ -1,9 +1,7 @@
 ### Hello World, I'm Debora!:octocat:
-
-<div>
+<!-- <div>
   <img align="center" src="https://i.imgur.com/uSKHvTy.gif">
-</div>
-
+</div> -->
 Hi, I'm Debora. I am a student of computer engineering and a full stack developer in development looking to "dominate" a stack. I live in Brazil and am 17 years old. Passionate about technology, book lover and gamer in his spare time.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DeboraZandonai&show_icons=true&theme=dracula)
@@ -32,7 +30,7 @@ Hi, I'm Debora. I am a student of computer engineering and a full stack develope
 <a rel="noopener" href="https://bitbucket.org/DeboraZandonai/">
   <img align="left" alt="Bitbucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />
 </a>
-<br/> <br/>
+<br/>
 
 ## Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
