@@ -2,7 +2,7 @@
 <!-- <div>
   <img align="center" src="https://i.imgur.com/uSKHvTy.gif">
 </div> -->
-Hi, I'm Debora. I am a student of computer engineering and a full stack developer in development looking to "dominate" a stack. I live in Brazil and am 18 years old. Passionate about technology, book lover and gamer in his spare time.
+Hi, I'm Debora. I am a student of computer engineering and a full stack developer in development looking to "dominate" a stack. I live in Brazil. Passionate about technology, book lover and gamer in his spare time.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DeboraZandonai&show_icons=true&theme=dracula)
 
