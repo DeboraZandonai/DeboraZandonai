@@ -1,8 +1,8 @@
-# Hello World, I'm Debora!:octocat:
+# Hello World, I'm Debora!
 <!-- <div>
   <img align="center" src="https://i.imgur.com/uSKHvTy.gif">
 </div> -->
-Hi, I'm Debora. I am a student of computer engineering and a front-end developer in development looking to "dominate" a stack. I live in Brazil. Passionate about technology, book lover and gamer in his spare time.
+I'm a software developer focused on Front-end, specialized in JavaScript and TypeScript and with experience with React and React Native. I am currently studying Computer Engineering.
 
 <div>
 <a href="https://github.com/DeboraZandonai">
@@ -19,10 +19,6 @@ Hi, I'm Debora. I am a student of computer engineering and a front-end developer
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" />
   </div>
 
 ## Contacts:
